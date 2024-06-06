@@ -340,7 +340,7 @@ function animate() {
                 setTimeout(() => {
                     game.active = false    
                 },2000)
-                // console.log('lose')
+                console.log('lose')
             }
     })
 
